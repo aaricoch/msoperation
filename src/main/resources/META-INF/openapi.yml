@@ -1,0 +1,8 @@
+openapi: 3.0.3
+servers:
+- url: http://localhost:9385/
+  description: url Local
+- url: https://dev.nttdata.com/msoperation/
+  description: url Desarrollo
+- url: https://nttdata.com/msoperation/
+  description: url Produccion
